@@ -3,8 +3,11 @@ Nama : Tina Kurniana\
 NIM  : 193020503033
 # Usage
 * Level Admin\
-user : admin\
-pw   : admin
+username : admin\
+password : admin
 
-*level User\
-bisa registrasi
+* Level User\
+  username : tina\
+  password : 123
+  
+  Atau bisa registrasi akun baru
