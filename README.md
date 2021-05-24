@@ -5,3 +5,6 @@ NIM  : 193020503033
 * Level Admin\
 user : admin\
 pw   : admin
+
+*level User\
+bisa registrasi
